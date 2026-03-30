@@ -16,9 +16,9 @@ Analyzed banking transaction data to understand customer behavior, transaction t
  - Observed trends in monthly transaction activity
 
 📁 Files
-bank_data_cleaned.csv → dataset
-queries.sql → SQL analysis
-Bank_project_dataset.ipynb → Python cleaning
+ - bank_data_cleaned.csv → dataset
+ - queries.sql → SQL analysis
+ - Bank_project_dataset.ipynb → Python cleaning
 
 📊 Dashboard
-https://public.tableau.com/views/DA_brank_project/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ - https://public.tableau.com/views/DA_brank_project/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
